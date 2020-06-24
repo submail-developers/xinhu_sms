@@ -1,0 +1,1 @@
+INSERT INTO `rockxinhu`.`xinhu_option`(`name`, `type`, `pid`, `num`, `value`, `sort`, `values`, `valid`, `optdt`, `optid`, `receid`, `recename`, `explain`, `comid`) VALUES ( '赛邮云短信', 0, 403, '', 'submail', 1, NULL, 1, NULL, 0, NULL, NULL, NULL, 0);
